@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hunterpromo-26348",
+  "private_key_id": "c8d16c9dda353fcd065c1979d97436f1865e9616",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDG7508GuugLdJl\ngDlCFxm3D3lCpPPdfIf6MqAC6PIqkxNgd8bACiMnVB7+ObAi1JueIH/1Behfm8ok\nxY36C9ZISTiczsT6fBQbx2ZHKlWju4W+gP2Bcu8nxW0B9mRQn3KVswwQG64Z5Gk+\nrXoW3P07VYEdNBeihV0nUw8jU+x28nDr+eeA6Kzy/9+2rgb1mgxWypvzhlBuRPoh\nO7Omyp27KLOpAdG1qmwe5yz6C8F5o4S8Ve5l97L7kQcJ4PGetkAsDwzSjVx38KXH\nLSs1cS5WSg64THT45arWJP/PgTUxKF7YEQgtJfDXSDGpuQBpXrDS78BwG46iYVpk\naFWR6z+rAgMBAAECggEAHGz7ri14krxJboh6Zgev/HjhDlVMpU7YjTczpwbLJ6s5\nXxTuWN159XIvNYtfsDJqBBfHwOa1tAeqREPYTCzp0w1nYfynp9UX+HovEqcpcopm\ni3iaAKfAJZIvx9KBtgV6lYpuhFS4NWnuYe7e3ap5IsPOfbJGWEovK+HR7W3eAYbV\ne/yEUJ8OKOVH4EtNXjjCJTpZpRgj3iI/NsiFkVFFLvZqB2cGFgoVtPWBrWJpw8ei\nm07nHHhvXXfTaZMDLm9nBofj6Fe/e9Bns219YsSpCanR+PcqOpAUivM+tWRfooWW\nekXRSY9fZbOiZvN7HfVJ+jI1vdJQ1E+QuFVO0jNduQKBgQDly5Mq/Qo0lAWQDzxu\nUl1eYUB8y4/AQohLeuV420HVDRtAPrht3bOQVvF7HrGU8NmB9M5aU44KpEYdxrzU\nMkkHAQUm6SaHf4cPCuX56K19MOXBEySR+sG8RfgcSPFwiUq44sgRqT1PpB0HOfet\nu5hLHAdWfDUzPlZxI1rQK/kd+QKBgQDdnyoNlH5fONgJU61rYU9JQztyz0lv60XI\nahC6i+zFHqNzZJJeAWAnro69Iu60/y0LE+xjCETytvfIIdioM+QPP4s/AuAzVkOv\nbPQpIfP2FPPLAZDUR2/UuobPeFEOQ6QocVxiazuA+xlWyfit2a5lnoSUbxt/Hf5j\ny9fsECuDwwKBgCIgkrGutMZMOWtEp//mYZFztgUSoj22Y9F55fyF64f9k09+QRun\n8lP8ZY6YZ10sS9E+Dytg/1ZbQUKI0mBdO3U71I0L0ToMWX2Fa9QqlyFhkq2S7zpy\n2DTi208wEhNZgGxm2bmtvbpHMDxzgnIdyydUeU6B0dDTcDkLPCBwd2XZAoGBAKB9\n9xJGiw2iOLDobBnrKmO/0HlgK6plEvAD/4FYe2p0uaGDH4v8KwoRm0TU21EvygrP\nrsw43NV4MxA3kpKcoXd5aPmEt5/1xKZxnI99CxMWMUa+J4fTA+Vl/uKYGvrdeS/g\niCqtxTWuobb8JJ6hmW310cU8gQkZS3Qx1ngZbanJAoGAJ9hUr0tiV3lXuo5vjN/l\nClaklo/uS1xFM666uQmyiNwdtKFEnZK41WHo8gbHA2gluDAGrDmstswRJkJ3F+9f\nF1ultQCDJrHop0yK7ZMgTD6pEayV37u5QtnVghNkVQzcR6Al3W7wOhDXBMGkjkLR\nRXohTNOCRHAkHQIo/nzSdnY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ynyho@hunterpromo-26348.iam.gserviceaccount.com",
+  "client_id": "100299183422969806708",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ynyho%40hunterpromo-26348.iam.gserviceaccount.com"
+}
